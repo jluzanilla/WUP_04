@@ -63,3 +63,5 @@ plot(TukeyHSD(model1),las=2)
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+There is no difference between junior college and bachelor degree. Also the plots are real close to graduate school and the only difference ia junior high, and graduate school. The null hypothesis determines that junior college and bachelor degree are about the same in accuarancy so the pvalue is closer to the education levels put together. 
